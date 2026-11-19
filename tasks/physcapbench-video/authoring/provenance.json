@@ -1,0 +1,510 @@
+{
+  "dataset": "https://huggingface.co/datasets/hfwang01/PhysCapBench",
+  "revision": "4b1872201558c6fb5e231f5be2b843ed16b2e105",
+  "clips": [
+    {
+      "case_id": "41e41723f5a2",
+      "video_id": "umi500_0026",
+      "video_sha256": "5cad97226e2187df98d005b9d0689facaf84bbc73aac79f975c204cbfc81b578",
+      "reference_sha256": "1b81d5f4a5f8d3f6d38bb7020cb334e5646eb789bf79c68c740d71b664befedd",
+      "events": {
+        "A": {
+          "event": "event_1",
+          "onset_frame": 0
+        },
+        "B": {
+          "event": "event_3",
+          "onset_frame": 275
+        },
+        "C": {
+          "event": "event_2",
+          "onset_frame": 90
+        },
+        "D": {
+          "event": "event_4",
+          "onset_frame": 336
+        }
+      }
+    },
+    {
+      "case_id": "ad8d057a33bb",
+      "video_id": "umi500_0069",
+      "video_sha256": "deadcd0c4e606b6fe68693ba6104116f8400406c39f6279f3a20277e06e5ee11",
+      "reference_sha256": "38aa006cb42e4b70396a14c9ff6c7c037622f338b5604d54cf3c4ad26caede93",
+      "events": {
+        "A": {
+          "event": "event_1",
+          "onset_frame": 0
+        },
+        "B": {
+          "event": "event_2",
+          "onset_frame": 35
+        },
+        "C": {
+          "event": "event_3",
+          "onset_frame": 93
+        },
+        "D": {
+          "event": "event_4",
+          "onset_frame": 140
+        }
+      }
+    },
+    {
+      "case_id": "4b0bca7c9d52",
+      "video_id": "umi500_0116",
+      "video_sha256": "5d0a2d33ece2a077ab5d0fdc6b2e07e7cb04d120f544b46f0aa1274198d98e3f",
+      "reference_sha256": "f08e693ae81fbe296a27c4662ff92769819bc348705f59dd2c8a25e1919a62fc",
+      "events": {
+        "A": {
+          "event": "event_2",
+          "onset_frame": 112
+        },
+        "B": {
+          "event": "event_4",
+          "onset_frame": 155
+        },
+        "C": {
+          "event": "event_1",
+          "onset_frame": 0
+        },
+        "D": {
+          "event": "event_3",
+          "onset_frame": 124
+        }
+      }
+    },
+    {
+      "case_id": "4262c18f1e1f",
+      "video_id": "umi500_0147",
+      "video_sha256": "d075108e7c74174813e7e8480d2994096d03e0c1d83572c80efd602eeac90a4d",
+      "reference_sha256": "b441f40841d14e78fc3296a4e7d442ecaea22935c57e4582ef9a8f5c74b136e2",
+      "events": {
+        "A": {
+          "event": "event_1",
+          "onset_frame": 0
+        },
+        "B": {
+          "event": "event_4",
+          "onset_frame": 92
+        },
+        "C": {
+          "event": "event_2",
+          "onset_frame": 25
+        },
+        "D": {
+          "event": "event_3",
+          "onset_frame": 65
+        }
+      }
+    },
+    {
+      "case_id": "5f62def6b263",
+      "video_id": "umi500_0160",
+      "video_sha256": "3cc698988accc0ace7bcb1a4400ea9f6b1b388ed56173704523f10cd97008274",
+      "reference_sha256": "cdbb7a6619a4f9786bf3cb747302201d969786740664b9008fedbef81d5528ca",
+      "events": {
+        "A": {
+          "event": "event_1",
+          "onset_frame": 0
+        },
+        "B": {
+          "event": "event_2",
+          "onset_frame": 72
+        },
+        "C": {
+          "event": "event_3",
+          "onset_frame": 160
+        },
+        "D": {
+          "event": "event_4",
+          "onset_frame": 295
+        }
+      }
+    },
+    {
+      "case_id": "a168d80f6e37",
+      "video_id": "umi500_0180",
+      "video_sha256": "42622ff97a51318da9d977a2170a3d358484468f8063b10e0ce273f24f815ce6",
+      "reference_sha256": "9ee4e2f11286e0a6a422ac7188883175ca3c39b5b7eaf2c777d58a1f1d23daaf",
+      "events": {
+        "A": {
+          "event": "event_1",
+          "onset_frame": 0
+        },
+        "B": {
+          "event": "event_2",
+          "onset_frame": 82
+        },
+        "C": {
+          "event": "event_4",
+          "onset_frame": 230
+        },
+        "D": {
+          "event": "event_3",
+          "onset_frame": 155
+        }
+      }
+    },
+    {
+      "case_id": "585c70683eb5",
+      "video_id": "umi500_0211",
+      "video_sha256": "7cc6c5d63c660562b6d437ccead7a8ffd786a04bd812d2ac8e7df160ed5d4be7",
+      "reference_sha256": "237b15c4a82ce64a6f5348e399cb0328bae20322f9473e3dd91b35222196b709",
+      "events": {
+        "A": {
+          "event": "event_4",
+          "onset_frame": 136
+        },
+        "B": {
+          "event": "event_3",
+          "onset_frame": 103
+        },
+        "C": {
+          "event": "event_2",
+          "onset_frame": 28
+        },
+        "D": {
+          "event": "event_1",
+          "onset_frame": 0
+        }
+      }
+    },
+    {
+      "case_id": "34a61a686831",
+      "video_id": "umi500_0325",
+      "video_sha256": "909ed83c73b2ce94757c95bc3dbd4c6b16d607d9592fd6dc8bf87391def21e38",
+      "reference_sha256": "b9bc660a9565e3367f527b26dbbf877638c13513fc7bb06127225d5bc97f7a49",
+      "events": {
+        "A": {
+          "event": "event_2",
+          "onset_frame": 258
+        },
+        "B": {
+          "event": "event_3",
+          "onset_frame": 540
+        },
+        "C": {
+          "event": "event_1",
+          "onset_frame": 0
+        },
+        "D": {
+          "event": "event_4",
+          "onset_frame": 567
+        }
+      }
+    },
+    {
+      "case_id": "b3f08e833dd8",
+      "video_id": "umi500_0326",
+      "video_sha256": "09b2162fbc00826b1f281735ade04768f4038c8ea060be50b52f56ce418efbe4",
+      "reference_sha256": "89b6026d76dc1c4d98b8fc84d9ff72cee9952bf1e9d9b25b88ef176dd3d85a3e",
+      "events": {
+        "A": {
+          "event": "event_5",
+          "onset_frame": 544
+        },
+        "B": {
+          "event": "event_1",
+          "onset_frame": 0
+        },
+        "C": {
+          "event": "event_2",
+          "onset_frame": 28
+        },
+        "D": {
+          "event": "event_3",
+          "onset_frame": 527
+        }
+      }
+    },
+    {
+      "case_id": "ef70319be05c",
+      "video_id": "umi500_0327",
+      "video_sha256": "0caedfef47b217ad40ba22cbd7b13dfae0bec3da26e33c563cfe8bf629cfafc6",
+      "reference_sha256": "b33b88b0c06d4b9afc286006ceea9b81acf7ef22279bafc44c6393451e1a0eb5",
+      "events": {
+        "A": {
+          "event": "event_4",
+          "onset_frame": 330
+        },
+        "B": {
+          "event": "event_3",
+          "onset_frame": 290
+        },
+        "C": {
+          "event": "event_1",
+          "onset_frame": 0
+        },
+        "D": {
+          "event": "event_5",
+          "onset_frame": 370
+        }
+      }
+    },
+    {
+      "case_id": "05c167491b6e",
+      "video_id": "umi500_0330",
+      "video_sha256": "4e4904c6310f5769f57a8f33d729c7a456b49840946b89be0713973a2e8f813f",
+      "reference_sha256": "412e72583b39ec15c4bf4423c7cca68597eaba6f3ce1b678e747ca3aeff83870",
+      "events": {
+        "A": {
+          "event": "event_2",
+          "onset_frame": 56
+        },
+        "B": {
+          "event": "event_1",
+          "onset_frame": 0
+        },
+        "C": {
+          "event": "event_3",
+          "onset_frame": 101
+        },
+        "D": {
+          "event": "event_4",
+          "onset_frame": 327
+        }
+      }
+    },
+    {
+      "case_id": "ecab07033b8d",
+      "video_id": "umi500_0334",
+      "video_sha256": "7269095364e847cd86106ceada53b74b8e2ca6dd2b2fb852095ecc9dcc661e61",
+      "reference_sha256": "03af02386bec4b0116c961319165affe211d8e279a895b0b694006da0de27a11",
+      "events": {
+        "A": {
+          "event": "event_2",
+          "onset_frame": 141
+        },
+        "B": {
+          "event": "event_1",
+          "onset_frame": 0
+        },
+        "C": {
+          "event": "event_4",
+          "onset_frame": 308
+        },
+        "D": {
+          "event": "event_3",
+          "onset_frame": 248
+        }
+      }
+    },
+    {
+      "case_id": "e94ee15dbc31",
+      "video_id": "umi500_0338",
+      "video_sha256": "799106ce43bd7b43fd0ebb5ee244e79d55dad3c07c97e4ad36a0e1a1067068d1",
+      "reference_sha256": "0e0148ce853ce9da7f0fb559661fa794d70cf517a52b9218b883a86b415acb39",
+      "events": {
+        "A": {
+          "event": "event_3",
+          "onset_frame": 61
+        },
+        "B": {
+          "event": "event_2",
+          "onset_frame": 31
+        },
+        "C": {
+          "event": "event_4",
+          "onset_frame": 121
+        },
+        "D": {
+          "event": "event_1",
+          "onset_frame": 0
+        }
+      }
+    },
+    {
+      "case_id": "bc21baca3080",
+      "video_id": "umi500_0345",
+      "video_sha256": "7d6cde820664df34c37abb0870854fc1c59cf25c2a42e0b975194f2f296a953a",
+      "reference_sha256": "e0ef9807ceeb149f8c982fe882e31cb4ffcb5bd0767409b680bb92b708e8cd7b",
+      "events": {
+        "A": {
+          "event": "event_3",
+          "onset_frame": 249
+        },
+        "B": {
+          "event": "event_1",
+          "onset_frame": 0
+        },
+        "C": {
+          "event": "event_4",
+          "onset_frame": 433
+        },
+        "D": {
+          "event": "event_2",
+          "onset_frame": 78
+        }
+      }
+    },
+    {
+      "case_id": "fc5580943ed3",
+      "video_id": "umi500_0348",
+      "video_sha256": "04bfd0daf2bc9ac4ef4b8c475df595923b05d22ec9ee34b2123c3c1229bd453f",
+      "reference_sha256": "95757543c120e4cf3326ed5ed2c084559e3130e6809f0bffcb5f8880506542a3",
+      "events": {
+        "A": {
+          "event": "event_4",
+          "onset_frame": 460
+        },
+        "B": {
+          "event": "event_1",
+          "onset_frame": 0
+        },
+        "C": {
+          "event": "event_2",
+          "onset_frame": 376
+        },
+        "D": {
+          "event": "event_3",
+          "onset_frame": 383
+        }
+      }
+    },
+    {
+      "case_id": "c9b9665abe48",
+      "video_id": "umi500_0369",
+      "video_sha256": "c79ac1b0b9d94d916a072dc04689f3c7d46bfb7865e68e29c6d9b8231b2f2cdd",
+      "reference_sha256": "a90280bdf60fadda1b9403efb1deec3148a517614d7dfa53edf9e0be1a35a123",
+      "events": {
+        "A": {
+          "event": "event_1",
+          "onset_frame": 0
+        },
+        "B": {
+          "event": "event_3",
+          "onset_frame": 129
+        },
+        "C": {
+          "event": "event_2",
+          "onset_frame": 105
+        },
+        "D": {
+          "event": "event_4",
+          "onset_frame": 147
+        }
+      }
+    },
+    {
+      "case_id": "7edeca6ca3ce",
+      "video_id": "umi500_0407",
+      "video_sha256": "c2442742fe9bd28b943e1b4d22fa515ec771f50c27f59ad788df72d9a43a3e46",
+      "reference_sha256": "862e64de264a5709cd2ae2195f3d765987bc6c1381748bc45d600f6eedf6ec5a",
+      "events": {
+        "A": {
+          "event": "event_3",
+          "onset_frame": 135
+        },
+        "B": {
+          "event": "event_1",
+          "onset_frame": 0
+        },
+        "C": {
+          "event": "event_2",
+          "onset_frame": 35
+        },
+        "D": {
+          "event": "event_4",
+          "onset_frame": 166
+        }
+      }
+    },
+    {
+      "case_id": "18eef1691735",
+      "video_id": "umi500_0417",
+      "video_sha256": "478431b21be716be8161c30efbb219a78568f5575c95c6cc865210c571bbd17b",
+      "reference_sha256": "0341f6f3d2c633ae6e752edaafebbc2afb7d1625a16dcb4596c0d3ea6832e14b",
+      "events": {
+        "A": {
+          "event": "event_3",
+          "onset_frame": 156
+        },
+        "B": {
+          "event": "event_4",
+          "onset_frame": 218
+        },
+        "C": {
+          "event": "event_1",
+          "onset_frame": 0
+        },
+        "D": {
+          "event": "event_2",
+          "onset_frame": 112
+        }
+      }
+    },
+    {
+      "case_id": "634ed7ff1fc7",
+      "video_id": "umi500_0452",
+      "video_sha256": "b4c16e82831e9856ff26e639c97ba92642c8d030ba10eb9024056bf09d0b51cf",
+      "reference_sha256": "2ff8c099cba9e072300d20758d986539b0136e62c847d19b2fad4816b7c81893",
+      "events": {
+        "A": {
+          "event": "event_3",
+          "onset_frame": 136
+        },
+        "B": {
+          "event": "event_4",
+          "onset_frame": 142
+        },
+        "C": {
+          "event": "event_1",
+          "onset_frame": 0
+        },
+        "D": {
+          "event": "event_2",
+          "onset_frame": 91
+        }
+      }
+    },
+    {
+      "case_id": "0ce3279f9a15",
+      "video_id": "umi500_0454",
+      "video_sha256": "9602d87d9ae41a569380320d7db3927d6bf28a2c930a43fc0e268bab84adef0b",
+      "reference_sha256": "fcbae9af41a312f643b0fdbc8eed4571b6a694ff2fd018b40579b43ab893b435",
+      "events": {
+        "A": {
+          "event": "event_3",
+          "onset_frame": 420
+        },
+        "B": {
+          "event": "event_4",
+          "onset_frame": 443
+        },
+        "C": {
+          "event": "event_2",
+          "onset_frame": 60
+        },
+        "D": {
+          "event": "event_1",
+          "onset_frame": 0
+        }
+      }
+    },
+    {
+      "case_id": "adb6b6e6fbf7",
+      "video_id": "umi500_0495",
+      "video_sha256": "a60ceb323c739761f4551b71d0ec3308b0322270110637a6894f7509ff307471",
+      "reference_sha256": "bd0ec9578b57c16cbc90623c3c268c784e1b5e74a5e24fccb0244db9dc922857",
+      "events": {
+        "A": {
+          "event": "event_3",
+          "onset_frame": 240
+        },
+        "B": {
+          "event": "event_2",
+          "onset_frame": 115
+        },
+        "C": {
+          "event": "event_4",
+          "onset_frame": 366
+        },
+        "D": {
+          "event": "event_1",
+          "onset_frame": 0
+        }
+      }
+    }
+  ]
+}
