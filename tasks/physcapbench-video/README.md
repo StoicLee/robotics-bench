@@ -42,19 +42,19 @@ This task adapts PhysCapBench's temporal-order dimension to binary Robotics-Benc
 
 ## Run or increase the batch size
 
-From the Robotics-Bench repository root, run the committed 21-video batch with Harbor and Docker:
+From the Robotics-Bench repository root, run the committed 51-video batch with Harbor and Docker:
 
 ```bash
 harbor run -p tasks/physcapbench-video --agent oracle --env docker
 harbor run -p tasks/physcapbench-video --agent nop --env docker
 ```
 
-For a larger local batch, use the upstream `bench.py` in a PhysCapBench checkout with its locked dependencies installed, and FFmpeg on `PATH`. Set `PHYS` to that checkout and `BATCH` to a new workspace path. This example requests 50 of the 500 UMI clips:
+For a larger local batch, use the upstream `bench.py` in a PhysCapBench checkout with its locked dependencies installed, and FFmpeg on `PATH`. Set `PHYS` to that checkout and `BATCH` to a new workspace path. This example requests 150 of the 500 UMI clips:
 
 ```bash
 python "$PHYS/bench.py" download --repo hfwang01/PhysCapBench \
   --revision 4b1872201558c6fb5e231f5be2b843ed16b2e105 \
-  --domain umi --limit 50 --data "$BATCH/metadata" --videos "$BATCH/downloaded"
+  --domain umi --limit 150 --data "$BATCH/metadata" --videos "$BATCH/downloaded"
 python tasks/physcapbench-video/authoring/build_cases.py \
   "$BATCH/metadata" "$BATCH/downloaded/videos/umi" --output "$BATCH/physcapbench-video"
 harbor run -p "$BATCH/physcapbench-video" --agent oracle --env docker
