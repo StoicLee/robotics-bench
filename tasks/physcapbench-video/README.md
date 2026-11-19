@@ -7,8 +7,8 @@ Order annotated manipulation events in original PhysCapBench handheld-gripper vi
 
 | | |
 |---|---|
-| **Author** | Maofei Li (ZIWU-AI) — 148881440+StoicLee@users.noreply.github.com |
-| **Profile** | https://github.com/StoicLee |
+| **Author** | Maofei Li (Nanjing University) — 148881440+StoicLee@users.noreply.github.com; Rui Miao (ZIWU-AI) — 192702453+msnsdfl@users.noreply.github.com |
+| **Profile** | https://github.com/StoicLee, https://github.com/msnsdfl |
 | **Tags** | `manipulation` `video` `physcapbench` `temporal-reasoning` `offline-submission` |
 | **Expert time estimate** | 30 minutes |
 | **Agent budget** | 1 hours |
