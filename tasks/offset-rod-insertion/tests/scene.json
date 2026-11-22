@@ -1,0 +1,118 @@
+{
+  "budgets": {
+    "actions": 130,
+    "observations": 48
+  },
+  "development": [
+    {
+      "offset_m": -0.005
+    },
+    {
+      "offset_m": 0.005
+    },
+    {
+      "offset_m": -0.0054
+    },
+    {
+      "offset_m": 0.0054
+    },
+    {
+      "offset_m": -0.0058
+    },
+    {
+      "offset_m": 0.0058
+    },
+    {
+      "offset_m": -0.0062
+    },
+    {
+      "offset_m": 0.0062
+    },
+    {
+      "offset_m": -0.0066
+    },
+    {
+      "offset_m": 0.0066
+    },
+    {
+      "offset_m": -0.007
+    },
+    {
+      "offset_m": 0.007
+    }
+  ],
+  "evaluation": [
+    {
+      "offset_m": -0.0051
+    },
+    {
+      "offset_m": 0.0051
+    },
+    {
+      "offset_m": -0.00525
+    },
+    {
+      "offset_m": 0.00525
+    },
+    {
+      "offset_m": -0.00545
+    },
+    {
+      "offset_m": 0.00545
+    },
+    {
+      "offset_m": -0.0056
+    },
+    {
+      "offset_m": 0.0056
+    },
+    {
+      "offset_m": -0.00575
+    },
+    {
+      "offset_m": 0.00575
+    },
+    {
+      "offset_m": -0.0059
+    },
+    {
+      "offset_m": 0.0059
+    },
+    {
+      "offset_m": -0.0061
+    },
+    {
+      "offset_m": 0.0061
+    },
+    {
+      "offset_m": -0.00625
+    },
+    {
+      "offset_m": 0.00625
+    },
+    {
+      "offset_m": -0.00645
+    },
+    {
+      "offset_m": 0.00645
+    },
+    {
+      "offset_m": -0.00658
+    },
+    {
+      "offset_m": 0.00658
+    },
+    {
+      "offset_m": -0.0068
+    },
+    {
+      "offset_m": 0.0068
+    },
+    {
+      "offset_m": -0.00695
+    },
+    {
+      "offset_m": 0.00695
+    }
+  ]
+}
