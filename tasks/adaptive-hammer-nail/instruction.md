@@ -2,7 +2,7 @@
 
 # Drive a nail to a narrow depth window
 
-Pick up the hammer with the simulated parallel gripper and use it to drive the nail into the fixed board. Board resistance varies each episode. Observe the progress after each swing and finish with the nail upright and within the target depth window.
+Pick up the hammer with the simulated parallel gripper and use it to drive the nail into the fixed board. Board resistance varies each episode. The hammer and nail can start at different positions, which are available through the episode interface. Observe the progress after each swing and finish with the nail upright and within the target depth window.
 
 ## Interface
 

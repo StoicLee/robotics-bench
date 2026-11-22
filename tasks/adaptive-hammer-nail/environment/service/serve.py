@@ -54,7 +54,7 @@ class TaskEpisode(Episode):
         return self.execute("gripper", {"close": body["close"]})
 
     def describe(self):
-        return {"hammer_grasp_xyz": sim.TOOL_HOME, "limits": sim.JAW_LIMITS,
+        return {"hammer_grasp_xyz": self.world.tool_home, "limits": sim.JAW_LIMITS,
                 "max_step_m": sim.STEP_M, "speed_limits_m_s": [sim.MIN_IMPACT_M_S, sim.SPEED_LIMIT],
                 "depth_window_m": [sim.DEPTH_LOW, sim.DEPTH_HIGH]}
 
