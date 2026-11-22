@@ -54,8 +54,8 @@ class TaskEpisode(Episode):
         return self.execute("gripper", {"close": body["close"]})
 
     def describe(self):
-        return {"nominal_rings": [[x, 0, sim.CENTER_Z] for x in sim.RING_X],
-                "grasp_pose": sim.HOME, "limits": sim.LIMITS, "max_step_m": sim.STEP_M,
+        return {"nominal_rings": self.world.nominal_rings,
+                "grasp_pose": self.world.home, "limits": sim.LIMITS, "max_step_m": sim.STEP_M,
                 "max_yaw_rad": sim.STEP_YAW, "tip_reach_m": sim.GRASP_OFFSET + sim.HALF_LENGTH}
 
     @op(budget="actions")
